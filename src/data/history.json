@@ -1,0 +1,35 @@
+[
+    {
+      "role": "Full Stack Developer",
+      "organisation": "Appz Global Tech Pvt. Ltd.",
+      "startDate": "Sept, 2023",
+      "endDate": "Present",
+      "experiences": [
+        "Develop front end using React.js framework for websites.", 
+        "Created backend using Node, Express, and MongoDB to handle the backend side for both apps and websites."
+    ],
+      "imageSrc": "history/experience.jpg"
+    },
+    {
+      "role": "Full Stack Developer",
+      "organisation": "Kiezen Soft Tech",
+      "startDate": "Jun, 2021",
+      "endDate": "Sept, 2023",
+      "experiences": [
+        "Worked on backend for different websites as well as mobile applications for iOS/Android using Node.js and the Express.js framework and tools with the database MongoDB and MySQL.", 
+        "Collaborated with team members using version control systems such as Git to organize modifications and assign tasks."
+    ],
+      "imageSrc": "history/experience.jpg"
+    },
+    {
+      "role": "Full Stack Intern",
+      "organisation": "Kiezen Soft Tech",
+      "startDate": "October, 2020",
+      "endDate": "Jun, 2021",
+      "experiences": [
+        "Developed and optimized websites for improved performance and user experience.",
+        "Developed REST APIs using Node.js and managed data effectively."
+      ],
+      "imageSrc": "history/experience.jpg"
+    }
+  ]

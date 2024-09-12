@@ -1,0 +1,37 @@
+[
+    {
+      "title": "Rcinfovision",
+      "imageSrc": "projects/project.png",
+      "description": "Website for creating digital number door plates with QR codes that integrate government schemes for survey.",
+      "skills": ["React", "Express", "Node", "MongoDB", "AWS"],
+      "demo": "https://www.rcinfovision.in/"
+    },
+    {
+      "title": "Krizaar",
+      "imageSrc": "projects/project.png",
+      "description": "E-commerce websites and app where you can buy all materials according as per your need and track your orders.",
+      "skills": ["React", "Express", "Node", "MongoDB", "AWS"],
+      "demo": "https://krizaar.com/"
+    },
+    {
+      "title": "Thikedaar",
+      "imageSrc": "projects/project.png",
+      "description": "Website offering construction materials and architectural designs at one place with a personalized and user-friendly experience.",
+      "skills": ["React", "Express", "Node", "MongoDB", "AWS"],
+      "demo": "http://thikedaar.in"
+    },
+    {
+        "title": "College ERP",
+        "imageSrc": "projects/project.png",
+        "description": "Develop ERP solution that enables the institutes to conduct online admissions, generate reports, manage curriculum, time tables.",
+        "skills": ["React", "Express", "Node", "MongoDB", "AWS"],
+        "demo": "http://iecerp.in"
+      },
+      {
+        "title": "Shree Yoga Mandir",
+        "imageSrc": "projects/project.png",
+        "description": "“Shri Yoga Mandir ” mean the temple of yoga, where people could stay and learn yoga in an ideal atmosphere like an ashram of Rishi (Sacred man).",
+        "skills": ["React", "Express", "Node", "MongoDB", "AWS"],
+        "demo": "http://banarasyogamandir.com"
+      }
+  ]
