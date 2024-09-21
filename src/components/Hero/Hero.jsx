@@ -15,11 +15,11 @@ const Hero = () => {
           Contact Me
         </a>
       </div>
-      <img
+      {/* <img
         src={getImageUrl("hero/ranjit.png")}
         className={styles.heroImg}
         alt="hero image of me"
-      />
+      /> */}
       <div className={styles.topBlur} />
       <div className={styles.bottomBlur} />
     </section>
